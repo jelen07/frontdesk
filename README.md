@@ -111,6 +111,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Grumpicon](http://www.grumpicon.com) — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
 - [Smarticons](https://smarticons.co) — Customizable SVG icon system for the modern web.
 - [retinize.it](http://retinize.it) — Photoshop actions for slicing retina assets @2x @3x.
+- [IcoMoon.io](https://icomoon.io) - Icons generator (font/png/svg), huge icon packs
 
 ## JS
 - [XML to JSON](http://utilities-online.info/xmltojson)
